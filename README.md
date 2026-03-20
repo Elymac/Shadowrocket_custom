@@ -1,2 +1,5 @@
 # Shadowrocket-自定义配置
-https://raw.githubusercontent.com/LingJingMaster/Shadowrocket-Rules/refs/heads/main/Shadowrocket.conf
+/blob
+
+
+https://raw.githubusercontent.com/Elymac/Shadowrocket-/main/cust_lazy.conf
